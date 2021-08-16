@@ -1,28 +1,29 @@
+https://t.me/SourceGeSoN
 {
   
 "result": true,
   
 "plugins_": {
   
-"AddedMe.lua":"[ملف امر منو ضافني](https://t.me/Q1N_A)",
+"AddedMe.lua":"[ملف امر منو ضافني](https://t.me/SourceGeSoN)",
   
-"TagAll.lua":"[ملف تاك منفصل للاعضاء](https://t.me/Q1N_A)",
+"TagAll.lua":"[ملف تاك منفصل للاعضاء](https://t.me/SourceGeSoN)",
   
-"TagAdmins.lua":"[ملف تاك منفصل للمشرفين](https://t.me/Q1N_A)",
+"TagAdmins.lua":"[ملف تاك منفصل للمشرفين](https://t.me/SourceGeSoN)",
   
-"ReplyBot.lua":"[ملف الردود الخاص بالسورس](https://t.me/Q1N_A)",
+"ReplyBot.lua":"[ملف الردود الخاص بالسورس](https://t.me/SourceGeSoN)",
       
-"MuteNames.lua":"[ملف كتم الاسماء للمجموعات](https://t.me/Q1N_A)",
+"MuteNames.lua":"[ملف كتم الاسماء للمجموعات](https://t.me/SourceGeSoN)",
   
-"ProNames.lua":"[ملف وضع التوحيد للمجموعات](https://t.me/Q1N_A)",
+"ProNames.lua":"[ملف وضع التوحيد للمجموعات](https://t.me/SourceGeSoN)",
   
-"ChangeName.lua":"[ملف التنبيه لتغيير الاسم](https://t.me/Q1N_A)",
+"ChangeName.lua":"[ملف التنبيه لتغيير الاسم](https://t.me/SourceGeSoN)",
     
-"ChangeUser.lua":"[ملف التنبيه لتغيير المعرف](https://t.me/Q1N_A)",
+"ChangeUser.lua":"[ملف التنبيه لتغيير المعرف](https://t.me/SourceGeSoN)",
   
-"ChangePhoto.lua":"[ملف التنبيه لتغيير الصوره](https://t.me/Q1N_A)",
+"ChangePhoto.lua":"[ملف التنبيه لتغيير الصوره](https://t.me/SourceGeSoN)",
   
-"AutoFile.lua":"[ملف النسخ الاحتياطيه التلقائيه](https://t.me/Q1N_A)",
+"AutoFile.lua":"[ملف النسخ الاحتياطيه التلقائيه](https://t.me/SourceGeSoN)",
   
 }
   
