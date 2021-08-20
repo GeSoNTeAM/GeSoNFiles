@@ -92,8 +92,8 @@ GeSoNTeaM =  "قول ماقول لااحد"
 Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM, 1, 'md')
 return false
 end
-if text == 'فرخ' then
-GeSoNTeaM =  "ٰوينۨہهۂَ خۡل احۡصرهۂَ 𖠙 😹♥️" 
+if text == 'هاي' then
+GeSoNTeaM =  "ٰوعليكم الهاي","ولكم","نشبه لاتجي","سيو","انااستاذن","منور" 
 Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM, 1, 'md') 
 return false
 end
