@@ -31,44 +31,44 @@ end
 Dev_Abs(msg.chat_id_, msg.id_, 1,rd, 1, 'html')
 end
 if text == 'دي' or text == 'ديي' or text == 'دي بابه' then 
-GeSoNTeaM =  "آخلُِآقٌڪڪ لُِڪڪ 𖠙 😒🔪"
+GeSoNTeaM =  "اخلااققك ولاك"
 Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM, 1, 'md') 
 return false
 end
 if text == 'السلام عليكم' or text == 'سلام عليكم' then 
-GeSoNTeaM =  "ياھَہّلْاا ۅﻋ̝̚لْيڪْم الْﺳ̭͠ لْام 𖠙 🤤♥️"
+GeSoNTeaM =  "وعليكم سلام هلا بالشيخ♥️"
 Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM, 1, 'md') 
 return false
 end
 if text == '😭💔' or text == '😭😭' or text == '😭😭😭' or text == '😿💔' or text == '😭😭😭' or text == '😭😭😭😭' then 
-GeSoNTeaM =  "مآآعٍآشُ آلُِي يزعٍلُِڪڪ 𖠙 😏♥️"
+GeSoNTeaM =  "ليش تبكي ياعيوني"
 Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM, 1, 'md') 
 return false
 end
-if text == '🌚💔' or text == '💔🌚' or text == '🚶‍♂💔' or text == '💔' or text == '😔💔' or text == '🚶‍♀💔' or text == '😭' then 
-GeSoNTeaM =  "شبّيي اﻟ̣̣פﻟ̣̣و 𖠙 😿💔"
+if text == '💔💔' or text == '💔🌚' or text == '🚶‍♂💔' or text == '💔' or text == '😔💔' or text == '🚶‍♀💔' or text == '😭' then 
+GeSoNTeaM =  "اسمع مني وروح لعند مطوري وخلي ينصبلك بوت"
 Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM, 1, 'md') 
 return false
 end
 if text == 'باي' or text == 'بااي' or text == 'اروح' or text == 'اروح احسن' or text == 'اولي احسن' or text == 'راح اروح' or text == 'باي انام' then 
-GeSoNTeaM =  "أُرٌجُعُ عٍيدِهآآ مٍوو تنِْسةه 𖠙 🤤♥️"
+GeSoNTeaM =  "امانة ارجع عيدها مو تنسه"
 Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM, 1, 'md') 
 return false
 end
 if text == 'هلو' or text == 'هلاو' or text == 'هلا' or text == 'هلاوو' or text == 'هيلاو' or text == 'هيلاوو' or text == 'هلاا' then 
-local GeSoNTeaM = {"اࠗط็لق֯ق֯ هٞللاࠗ୨و 𖠙 🤤♥️" ,"هۂَلاا نۨہٰورتت يعمۘري 𖠙 🤤♥️" } 
+local GeSoNTeaM = {"واطلقق هلاا" ,"هلا نوت يعيوني" } 
 DevAbs2 = math.random(#GeSoNTeaM) 
 Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM[DevAbs2] , 1, 'md') 
 return false
 end
 if text == 'شونك' or text == 'شونج' or text == 'شلونك' or text == 'شلونج' or text == 'شونكم' or text == 'شلونكم' or text == 'شلخبار' or text == 'شلون الاخبار' or text == 'شخبارك' then 
-local GeSoNTeaM = {"ماﺷ͠ يةھَہّ يﻋ̝̚مريي ۅاﻧﺗ̲ت 𖠙 🤤♥️" ,"الحۡمۘدللهۂَ ٰوانۨہتت 𖠙 🤤♥️","تمۘامۘ عمۘري ٰوانۨہتت 𖠙 🤤♥️"} 
+local GeSoNTeaM = {"زينه ياقلبي وانته" ,"الحمدالله","تمام ياعيوني وانت"} 
 DevAbs2 = math.random(#GeSoNTeaM) 
 Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM[DevAbs2] , 1, 'md') 
 return false
 end
 if text == 'وينك' or text == 'وينج' then
-GeSoNTeaM =  "مْوٌجہوٌدِ يہمْگُ يحلوُ 𖠙 😉♥️"
+GeSoNTeaM =  "موجود ياعمري. "
 Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM, 1, 'md') 
 return false
 end
@@ -78,17 +78,17 @@ Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM, 1, 'md')
 return false
 end
 if text == 'نايمين' or text == 'ميتين' then
-GeSoNTeaM =  "طُآمسين ووعٍيوونڪ 𖠙 😪🖤ۦ"
+GeSoNTeaM =  "بلخاص العيال"
 Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM, 1, 'md') 
 return false
 end
 if text == 'هلوباي' or text == 'هلو باي' then  
-GeSoNTeaM =  "شحۡسۜيت مۘنۨہ هيجۚ ּكتبت ؟ 🌝♥️"
+GeSoNTeaM =  "شو حسيت من هيج كتبت؟"
 Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM, 1, 'md') 
 return false
 end
-if text == 'اكلك' or text == 'اكلج' or text == 'اكلكم' then 
-GeSoNTeaM =  "ڪوولُِ مآڪوولُِ لُِآحٍدِ 𖠙 😉♥️"
+if text == 'اقللك' or text == 'اقلج' or text == 'اقلقم' then 
+GeSoNTeaM =  "قول ماقول لااحد"
 Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM, 1, 'md')
 return false
 end
@@ -97,8 +97,8 @@ GeSoNTeaM =  "ٰوينۨہهۂَ خۡل احۡصرهۂَ 𖠙 😹♥️"
 Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM, 1, 'md') 
 return false
 end
-if text == 'سورس عبس' or text == 'سورس بروكس' or text == 'سورس ديف بروكس' or text == 'سورس زربه' or text == 'السورس زربه' or text == 'سورس عاوي' or text == 'السورس عاوي' then 
-GeSoNTeaM =  "لُِآ سوورس خآلُِتڪ دِي لُِڪ 𖠙 😒🔪" 
+if text == 'سورس ارماندو' or text == 'سورس جيسون' or text == 'سورس جيسون' or text == 'سورس فاشل' or text == 'السورس فاشل' or text == 'سورس عاوي' or text == 'السورس عاوي' then 
+GeSoNTeaM =  "لاهاذ سورس جدك" 
 Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM, 1, 'md')
 return false
 end
