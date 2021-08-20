@@ -56,7 +56,7 @@ Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM, 1, 'md')
 return false
 end
 if text == 'هلو' or text == 'هلاو' or text == 'هلا' or text == 'هلاوو' or text == 'هيلاو' or text == 'هيلاوو' or text == 'هلاا' then 
-local GeSoNTeaM = {"واطلقق هلاا" ,"هلا نوت يعيوني" } 
+local GeSoNTeaM = {"واطلقق هلاا" ,"هلا نورت يعيوني" } 
 DevAbs2 = math.random(#GeSoNTeaM) 
 Dev_Abs(msg.chat_id_, msg.id_, 1, GeSoNTeaM[DevAbs2] , 1, 'md') 
 return false
